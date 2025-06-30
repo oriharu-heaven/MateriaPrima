@@ -707,7 +707,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slotsParent: {fileID: 0}
-  slotPrefab: {fileID: 0}
+  slotPrefab: {fileID: 8584356629095283685, guid: bddba0900b9e9234a97e0eddf6340b2a, type: 3}
   workbenchSize: 9
   OnWorkbenchUpdated:
     m_PersistentCalls:
