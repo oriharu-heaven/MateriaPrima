@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Water_Data
   m_EditorClassIdentifier: 
   materialName: 
-  materialColor: {r: 0, g: 0.39215687, b: 1, a: 0}
+  materialColor: {r: 0, g: 0.39215687, b: 1, a: 1}

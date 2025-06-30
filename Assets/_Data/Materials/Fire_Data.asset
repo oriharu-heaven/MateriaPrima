@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: Fire_Data
   m_EditorClassIdentifier: 
   materialName: 
-  materialColor: {r: 1, g: 0.19607843, b: 0, a: 0}
+  materialColor: {r: 1, g: 0.19607843, b: 0, a: 1}
